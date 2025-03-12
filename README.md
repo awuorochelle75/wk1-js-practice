@@ -38,6 +38,8 @@ This is a challenge that expects us to come up with a program whose major task i
 >After this,perform the deductions i.e nssf and shif deductions to arrive at the net Salary.
 >Debugg your code using the terminal to identify any mistakes.
 
+When you're done, remember to commit and push your changes up to GitHub.
+
 
 
 
