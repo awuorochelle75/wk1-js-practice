@@ -2,7 +2,7 @@ function checkSpeed(){
     //this converts the input(speed) to a number and prompts the user to enter the speed.
     let speed=parseFloat(prompt( 'Enter the speed'))
 
-    //Checks to see if marks is not a number,number is not negative and is not greater than 100.
+    //Checks to see if speed is not a number,number is not negative and is not greater than 100.
     if(isNaN(speed) || speed <0){
          alert('Invalid input! Enter correct speed')
          return;
